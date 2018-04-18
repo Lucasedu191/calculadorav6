@@ -22,9 +22,9 @@ namespace WindowsFormsApp1
           
 
             if (numericUpDown1.Value >= 7)
-                MessageBox.Show("voce passou");
+                MessageBox.Show("voce passou, ufa!");
             else
-                MessageBox.Show("voce esta reprovado");
+                MessageBox.Show("voce esta reprovado, deu ruim");
         }
     }
 }
